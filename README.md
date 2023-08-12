@@ -28,7 +28,7 @@ I excel in Python, specializing in data science libraries like NumPy, Pandas, an
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielVCoutinho&show_icons=true&theme=tokyonight" height="200px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVCoutinho&layout=compact&theme=tokyonight" width="364px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielVCoutinho&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVCoutinho&layout=compact&theme=tokyonight" width="355px" />
 
 # 📬 Socials
 
