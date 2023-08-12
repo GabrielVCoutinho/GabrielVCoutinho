@@ -28,10 +28,10 @@ I excel in Python, specializing in data science libraries like NumPy, Pandas, an
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📈 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielVCoutinho&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVCoutinho&layout=compact&theme=tokyonight" />
 </a>
 
